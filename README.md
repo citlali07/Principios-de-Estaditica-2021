@@ -47,8 +47,11 @@ Semana 8
 25.03.21 Examen test 
 
 Semana 9
-14.04.21
-15.04.21
+
+14.04.21 Exolicacion de la linea de regresión 
+
+15.04.21 Sin clase 
+
 Semana 10
 21.04.21
 22.04.21
