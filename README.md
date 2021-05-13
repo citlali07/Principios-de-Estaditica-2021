@@ -65,6 +65,8 @@ Semana 11
 29.04.21 Asincrona
 
 Semana 12
-12.05.21
-13.05.21
+
+12.05.21 Prueba de T 
+
+13.05.21 Hipotesis alternativa 
 
