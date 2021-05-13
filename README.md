@@ -1,5 +1,6 @@
 # Principios-de-Estaditica-2021
 Semana 1 
+
 03.02.21 Primera clase 
 
 5.02.21 Creacion de la cuenta
