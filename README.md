@@ -6,19 +6,26 @@ Semana 1
 
 Semana 2 
 
-10.02.21
+10.02.21 Cuestionario de introduccion 
 
-12.02.21
+11.02.21 Primer comando con Rstudio
 
 Semana 3 
-Sesion 17.02.2021
-Sesion 18.02.2021
+
+Sesion 17.02.2021 Laboratorio 1
+
+Sesion 18.02.2021 Laboratorio 2
+
 Semana 4 
-24.02.2021
-25.02.2021
+
+24.02.2021 Explicaion de la tarea 1
+
+25.02.2021 Estadistica descrptiva 
+
 Semana 5
-03.03.21
-04.03.21
+03.03.21 solucion de lamlaboratorio 3
+
+04.03.21 Continuacion de laboratorio 3 y tarea 2
 Semana 6
 10.03.21
 11.03.21
