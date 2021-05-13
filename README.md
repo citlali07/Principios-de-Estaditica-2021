@@ -53,11 +53,17 @@ Semana 9
 15.04.21 Sin clase 
 
 Semana 10
-21.04.21
-22.04.21
+
+21.04.21 Analis de regresion en R 
+
+22.04.21 Realizacion de canopy 
+
 Semana 11
-28.04.21
-29.04.21
+
+28.04.21 Homogeniedad y normalidad 
+
+29.04.21 Asincrona
+
 Semana 12
 12.05.21
 13.05.21
