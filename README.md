@@ -26,15 +26,25 @@ Semana 5
 03.03.21 solucion de lamlaboratorio 3
 
 04.03.21 Continuacion de laboratorio 3 y tarea 2
+
 Semana 6
-10.03.21
-11.03.21
+
+10.03.21 Resumen y graficos de un conjunto 
+
+11.03.21 Histogramas, barploy y pie 
+
 Semana 7 
-17.03.21 
-18.03.21 
+
+17.03.21 correlacion entre dos variables 
+
+18.03.21 ejercicio de correlacion y explicacion de P + value 
+
 Semana 8 
-24.03.21
-25.03.21
+
+24.03.21 Explicacion de correlacion en R 
+
+25.03.21 Examen test 
+
 Semana 9
 14.04.21
 15.04.21
