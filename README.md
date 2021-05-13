@@ -1,4 +1,7 @@
 # Principios-de-Estaditica-2021
+Semana 1 
+03.02.21
+04.02.21
 Semaba 2 
 10.02.21
 11.02.21
