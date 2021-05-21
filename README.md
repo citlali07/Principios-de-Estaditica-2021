@@ -70,3 +70,9 @@ Semana 12
 
 13.05.21 Hipotesis alternativa 
 
+Semana 13 
+
+19.05.21 Prueba de T dependientes 
+
+20.05.21 Fin de Curso Estadistica 
+
